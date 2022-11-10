@@ -1,0 +1,107 @@
+{
+"emails":[{
+  "id": 1,
+  "first_name": "Griz",
+  "last_name": "Goodlife",
+  "email": "ggoodlife0@blinklist.com"
+}, {
+  "id": 2,
+  "first_name": "Amalita",
+  "last_name": "Surgison",
+  "email": "asurgison1@bloglovin.com"
+}, {
+  "id": 3,
+  "first_name": "Damon",
+  "last_name": "Dory",
+  "email": "ddory2@barnesandnoble.com"
+}, {
+  "id": 4,
+  "first_name": "Cristen",
+  "last_name": "Wabersich",
+  "email": "cwabersich3@webmd.com"
+}, {
+  "id": 5,
+  "first_name": "Redford",
+  "last_name": "Pughe",
+  "email": "rpughe4@go.com"
+}, {
+  "id": 6,
+  "first_name": "Carita",
+  "last_name": "Quainton",
+  "email": "cquainton5@sogou.com"
+}, {
+  "id": 7,
+  "first_name": "Phaidra",
+  "last_name": "Uccelli",
+  "email": "puccelli6@flickr.com"
+}, {
+  "id": 8,
+  "first_name": "Linnet",
+  "last_name": "Beche",
+  "email": "lbeche7@weebly.com"
+}, {
+  "id": 9,
+  "first_name": "Adelaide",
+  "last_name": "Sheers",
+  "email": "asheers8@uol.com.br"
+}, {
+  "id": 10,
+  "first_name": "Chester",
+  "last_name": "Andrzej",
+  "email": "candrzej9@noaa.gov"
+}],
+
+"animals":[{
+  "id": 1,
+  "first_name": "Bertha",
+  "gender": "Female",
+  "animals": "Egyptian vulture"
+}, {
+  "id": 2,
+  "first_name": "Jacquenette",
+  "gender": "Female",
+  "animals": "Denham's bustard"
+}, {
+  "id": 3,
+  "first_name": "Melany",
+  "gender": "Female",
+  "animals": "Lion, galapagos sea"
+}, {
+  "id": 4,
+  "first_name": "Marga",
+  "gender": "Genderfluid",
+  "animals": "Lizard, frilled"
+}, {
+  "id": 5,
+  "first_name": "Easter",
+  "gender": "Female",
+  "animals": "Bald eagle"
+}, {
+  "id": 6,
+  "first_name": "Raddy",
+  "gender": "Male",
+  "animals": "Levaillant's barbet"
+}, {
+  "id": 7,
+  "first_name": "Jenica",
+  "gender": "Genderfluid",
+  "animals": "Skua, great"
+}, {
+  "id": 8,
+  "first_name": "Law",
+  "gender": "Male",
+  "animals": "Gecko, ring-tailed"
+}, {
+  "id": 9,
+  "first_name": "Dolley",
+  "gender": "Female",
+  "animals": "Galapagos albatross"
+}, {
+  "id": 10,
+  "first_name": "Octavius",
+  "gender": "Non-binary",
+  "animals": "Topi"
+}]
+
+
+}

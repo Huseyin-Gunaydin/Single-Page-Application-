@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch from owm server</title>
+
+    <script>
+      async function getEmails() {
+        const response = await fetch("http://localhost:3000/emails");
+        const emails = await response.json();
+        console.log(emails);
+      };
+
+      async function getAnimals() {
+        const response = await fetch("http://localhost:3000/animals");
+        const animals = await response.json();
+        console.log(emails);
+      };
+
+      async function getUnknown() {
+        const response = await fetch("http://localhost:3000/thisdoesnottexist");
+        console.log(response);
+        try{
+          if(response.status !== 200){
+          throw new Error(response.status)
+        }
+        } catch(error){
+          console.error(error)
+        }
+    
+        const unknown = await response.json();
+        console.log(unknown);
+      }
+
+
+
+
+      getEmails();
+      getAnimals();
+    </script>
+  </head>
+  <body></body>
+</html>
